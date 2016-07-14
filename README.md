@@ -1,10 +1,10 @@
 #Responsive CSS TimeLine
 
 ## Live Demo
-[Responsive CSS TimeLine Demo](http://bglky.me/TimeLine "Responsive CSS TimeLine")
+### [Responsive CSS TimeLine](http://bglky.me/TimeLine "Responsive CSS TimeLine")
+![](http://7xwdhu.com1.z0.glb.clouddn.com/TimeLine_page.PNG)
 
 ## Quick Start
-
     //contain bglky_timeline.css file
     <link rel="stylesheet" type="text/css" href="css/bglky_timeline.css" />
     		
@@ -18,4 +18,4 @@
     			<p>内容......</p>
     		</div>
     	</li>
-    <ul>
+    </ul>
