@@ -1,7 +1,7 @@
 #Responsive CSS Timeline
 
 ## Live Demo
-### [Responsive CSS Timeline](http://bglky.me/TimeLine "Responsive CSS Timeline")
+### [Responsive CSS Timeline](http://bglky.me/timeline "Responsive CSS Timeline")
 ![](http://7xwdhu.com1.z0.glb.clouddn.com/TimeLine_page.PNG)
 
 ## Introduction
@@ -11,7 +11,7 @@
 
 引入bglky_timeline.css文件
 ```html
-<link rel="stylesheet" type="text/css" href="css/bglky_timeline.css" />
+<link rel="stylesheet" href="css/bglky_timeline.css" />
 ```
 
 timeline代码结构
