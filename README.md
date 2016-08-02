@@ -1,7 +1,7 @@
 #Responsive CSS Timeline
 
 ## Live Demo
-### [Responsive CSS Timeline](http://bglky.me/timeline "Responsive CSS Timeline")
+### [Responsive CSS Timeline](http://timeline.bglky.me "Responsive CSS Timeline")
 ![](http://7xwdhu.com1.z0.glb.clouddn.com/TimeLine_page.PNG)
 
 ## Introduction
